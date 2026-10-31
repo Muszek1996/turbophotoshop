@@ -23,3 +23,16 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+node_modules/
+venv/
+.idea/
+.vs/
+.pioenvs/
+.pio/
+__pycache__/
+*.pyc
+cmake-build-*/
+*.o
+*.class
+target/
+obj/
